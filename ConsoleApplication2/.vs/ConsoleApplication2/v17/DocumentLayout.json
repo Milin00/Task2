@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\Git\\Task\\ConsoleApplication2\\",
+  "WorkspaceRootPath": "C:\\Users\\ktc\\Desktop\\Git\\Task2\\ConsoleApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E43B7BC6-2F99-474A-AA27-AF6B7B9DE806}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\ktc\\Desktop\\Git\\Task\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E43B7BC6-2F99-474A-AA27-AF6B7B9DE806}|ConsoleApplication2\\ConsoleApplication2.vcxproj|C:\\Users\\ktc\\Desktop\\Git\\Task2\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E43B7BC6-2F99-474A-AA27-AF6B7B9DE806}|ConsoleApplication2\\ConsoleApplication2.vcxproj|solutionrelative:ConsoleApplication2\\ConsoleApplication2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConsoleApplication2.cpp",
-              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\Git\\Task\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "DocumentMoniker": "C:\\Users\\ktc\\Desktop\\Git\\Task2\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication2\\ConsoleApplication2.cpp",
-              "ToolTip": "C:\\Users\\ktc\\Desktop\\Git\\Task\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
+              "ToolTip": "C:\\Users\\ktc\\Desktop\\Git\\Task2\\ConsoleApplication2\\ConsoleApplication2\\ConsoleApplication2.cpp",
               "RelativeToolTip": "ConsoleApplication2\\ConsoleApplication2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
